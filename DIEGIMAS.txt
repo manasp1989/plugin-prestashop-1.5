@@ -1,7 +1,7 @@
 # -- DIEGIMAS --
 
 1. Administracijoje eikite i Modules->Payment spauskite "Click to see the list of payment modules." mygtuka;
-2. Naujame lange paspauskite "Add new module" mygtuka, pasirinkite archyva ir paspauskite "Upload this module" mygtuka;
+2. Naujame lange paspauskite "Add new module" mygtuka, pasirinkite paysera.zip archyva ir paspauskite "Upload this module" mygtuka;
 3. Mokejimai modulyje paspauskite "Install" mygtuka, po siekmingo idiegimo spauskite "Configure" mygtuka ir uzpildykite detales;
 
 #-- PAKEITIMAI --
